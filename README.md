@@ -27,6 +27,8 @@ This is a Flutter app that simulates a shopping cart. Users can view products, a
 *decrementing 2 items*
 ![Screenshot_1696685544](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/8fd36efd-7107-4bb8-8be9-7e8b6abf90db)
 
+*After Pressing check out button*
+![Screenshot_1696685964](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/74a4407a-84e9-4dcf-a890-bc3348cb6807)
 
 
 ## Getting Started
