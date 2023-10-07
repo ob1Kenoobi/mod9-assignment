@@ -1,4 +1,4 @@
-![Screenshot_1696685544](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/58089c4c-2e4e-4787-9089-a7518c2ac21a)# mod9_assi
+# mod9_assi
 
 # Shopping Cart App
 
@@ -15,14 +15,18 @@ This is a Flutter app that simulates a shopping cart. Users can view products, a
 
 ## Screenshots
 
-![Screenshot_1696685520](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/9f18f6b1-aed1-42f7-b3f4-d7861822f7bf)
 *Starting screen.*
+![Screenshot_1696685520](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/9f18f6b1-aed1-42f7-b3f4-d7861822f7bf)
+
+*incrementing an item*
 ![Screenshot_1696685527](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/6cc8f3c8-9863-420c-82b2-a3a5847a6aa3)
-*incrementing a item*
-![Screenshot_1696685538](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/43a108f4-5271-4fbd-9fa8-e6cee6d9b117)
+
 *incrementing 2 items*
-![Screenshot_1696685544](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/8fd36efd-7107-4bb8-8be9-7e8b6abf90db)
+![Screenshot_1696685538](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/43a108f4-5271-4fbd-9fa8-e6cee6d9b117)
+
 *decrementing 2 items*
+![Screenshot_1696685544](https://github.com/ob1Kenoobi/mod9-assignment/assets/140194680/8fd36efd-7107-4bb8-8be9-7e8b6abf90db)
+
 
 
 ## Getting Started
